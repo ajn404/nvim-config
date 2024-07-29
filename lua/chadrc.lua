@@ -34,8 +34,8 @@ end
 local highlights = require "highlights"
 
 M.ui = {
-  theme = "mountain",
-  theme_toggle = { "mountain", "one_light" },
+  theme = "solarized_osaka",
+  theme_toggle = { "solarized_osaka", "one_light" },
   hl_override = highlights.override,
   hl_add = highlights.add,
   telescope = { style = "borderless" }, -- borderless / bordered
